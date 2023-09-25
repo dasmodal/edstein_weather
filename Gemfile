@@ -8,6 +8,7 @@ ruby "3.2.2"
 gem "rails", "~> 7.0.8"
 
 gem "bootsnap", require: false
+gem "dotenv-rails"
 gem "grape"
 gem "puma", "~> 5.0"
 gem "sqlite3", "~> 1.4"
